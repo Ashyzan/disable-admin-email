@@ -29,13 +29,19 @@ If you like this plugin, please consider leaving a comment or review.
 Alternatively, you can manually upload the plugin to your wp-content/plugins directory.
 
 == Frequently Asked Questions ==
-How it works?
+= How it works? =
 For use it, simple activate it!
 
 == Changelog ==
-1.0.0
-First release
+= 1.0.0 =
+* First release
 
 == Github Repo ==
 Here's a link to the Github Repo [githublink](https://github.com/Ashyzan/disable-admin-email "Github Repo")
 
+== Upgrade Notice ==
+= 1.0.0 =
+First release
+
+== Screenshots ==
+1. Just simple activate the plugin.
