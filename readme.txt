@@ -1,11 +1,13 @@
 === Disable Admin Email ===
 Contributors: Ashyzan
 Tags: admin notification email, new user registration email, user registration admin email, disable new user registration email, disable admin email when user register
+Donate link: https://paypal.me/rosapistolesi?country.x=IT&locale.x=it_IT
 Requires at least: 4.6
 Tested up to: 6.7.1
-Stable Tag: 1.0.0
+Requires PHP: 7.4
+Stable tag: 1.0.0
 License: GNU General Public License version 3 or later
-License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
+License URI: URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Turns off the notification sent to the admin email when a new user account is registered.
 
@@ -26,10 +28,14 @@ If you like this plugin, please consider leaving a comment or review.
 
 Alternatively, you can manually upload the plugin to your wp-content/plugins directory.
 
-== Changelog ==
+== Frequently Asked Questions ==
+How it works?
+For use it, simple activate it!
 
-= 1.0.0 =
-* Initial release
+== Changelog ==
+1.0.0
+First release
 
 == Github Repo ==
 Here's a link to the Github Repo [githublink](https://github.com/Ashyzan/disable-admin-email "Github Repo")
+
