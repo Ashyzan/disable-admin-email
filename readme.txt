@@ -28,7 +28,8 @@ Alternatively, you can manually upload the plugin to your wp-content/plugins dir
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 * Initial release
 
-== Upgrade Notice ==
+== Github Repo ==
+Here's a link to the Github Repo [githublink](https://github.com/Ashyzan/disable-admin-email "Github Repo")
