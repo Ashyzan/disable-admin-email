@@ -8,6 +8,7 @@
  * Author URI: https://www.studiocreativo69.it
  * License: GNU General Public License version 3 or later
  * License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
+ * 
  */
 
 function dae_disable_new_user_admin_email() {

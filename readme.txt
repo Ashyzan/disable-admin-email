@@ -2,9 +2,7 @@
 Contributors: Ashyzan
 Tags: admin notification email, new user registration email, user registration admin email, disable new user registration email, disable admin email when user register
 Donate link: https://paypal.me/rosapistolesi?country.x=IT&locale.x=it_IT
-Requires at least: 4.6
-Tested up to: 6.7.1
-Requires PHP: 7.4
+Tested up to: 6.7
 Stable tag: 1.0.0
 License: GNU General Public License version 3 or later
 License URI: URI: https://www.gnu.org/licenses/gpl-3.0.en.html
